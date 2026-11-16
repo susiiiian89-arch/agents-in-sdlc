@@ -578,21 +578,33 @@ export default defineConfig({
                   label: '2. Add star ratings',
                   link: '/real-world-development/cli/2-add-star-rating/',
                   translations: {
+                    'es-ES': '2. Añade valoraciones con estrellas',
+                    'ja-JP': '2. 星評価を追加する',
                     'ko-KR': '2. 빠른 성과로 별점 추가하기',
+                    'pt-BR': '2. Adicione avaliações com estrelas',
+                    'zh-CN': '2. 添加星级评分',
                   },
                 },
                 {
                   label: '3. Agent modes: Plan and Autopilot',
                   link: '/real-world-development/cli/3-agent-modes/',
                   translations: {
+                    'es-ES': '3. Modos de agente: Plan y Autopilot',
+                    'ja-JP': '3. エージェント モード: Plan と Autopilot',
                     'ko-KR': '3. 에이전트 모드: Plan 및 Autopilot',
+                    'pt-BR': '3. Modos de agente: Plan e Autopilot',
+                    'zh-CN': '3. 智能体模式：Plan 和 Autopilot',
                   },
                 },
                 {
                   label: '4. Guiding Copilot with custom instructions',
                   link: '/real-world-development/cli/4-custom-instructions/',
                   translations: {
+                    'es-ES': '4. Guía a Copilot con instrucciones personalizadas',
+                    'ja-JP': '4. カスタム指示で Copilot をガイドする',
                     'ko-KR': '4. 사용자 지정 지침으로 Copilot 안내하기',
+                    'pt-BR': '4. Oriente o Copilot com instruções personalizadas',
+                    'zh-CN': '4. 使用自定义说明引导 Copilot',
                   },
                 },
                 {
@@ -606,35 +618,55 @@ export default defineConfig({
                   label: '6. Validate functionality with Playwright MCP',
                   link: '/real-world-development/cli/6-mcp-playwright/',
                   translations: {
+                    'es-ES': '6. Valida la funcionalidad con Playwright MCP',
+                    'ja-JP': '6. Playwright MCP で機能を検証する',
                     'ko-KR': '6. Playwright MCP로 기능 검증하기',
+                    'pt-BR': '6. Valide a funcionalidade com o Playwright MCP',
+                    'zh-CN': '6. 使用 Playwright MCP 验证功能',
                   },
                 },
                 {
                   label: '7. Create and use a QA agent',
                   link: '/real-world-development/cli/7-qa-agent/',
                   translations: {
+                    'es-ES': '7. Crea y utiliza un agente de QA',
+                    'ja-JP': '7. QA エージェントを作成して使う',
                     'ko-KR': '7. QA 에이전트 만들고 사용하기',
+                    'pt-BR': '7. Crie e use um agente de QA',
+                    'zh-CN': '7. 创建并使用 QA 智能体',
                   },
                 },
                 {
                   label: '8. Create and merge the feature PR',
                   link: '/real-world-development/cli/8-create-pull-request/',
                   translations: {
+                    'es-ES': '8. Crea y combina la solicitud de cambios de la funcionalidad',
+                    'ja-JP': '8. 機能のプルリクエストを作成してマージする',
                     'ko-KR': '8. 기능 PR 만들고 병합하기',
+                    'pt-BR': '8. Crie e mescle o PR da funcionalidade',
+                    'zh-CN': '8. 创建并合并功能 PR',
                   },
                 },
                 {
                   label: '9. Slash commands in Copilot CLI',
                   link: '/real-world-development/cli/9-cli-power-tools/',
                   translations: {
+                    'es-ES': '9. Comandos con barra en Copilot CLI',
+                    'ja-JP': '9. Copilot CLI のスラッシュ コマンド',
                     'ko-KR': '9. GitHub Copilot CLI의 슬래시 명령',
+                    'pt-BR': '9. Comandos de barra no Copilot CLI',
+                    'zh-CN': '9. Copilot CLI 中的斜杠命令',
                   },
                 },
                 {
                   label: '10. Wrap-up and next steps',
                   link: '/real-world-development/cli/10-review/',
                   translations: {
+                    'es-ES': '10. Resumen y próximos pasos',
+                    'ja-JP': '10. まとめと次のステップ',
                     'ko-KR': '10. 마무리 및 다음 단계',
+                    'pt-BR': '10. Recapitulação e próximos passos',
+                    'zh-CN': '10. 总结和后续步骤',
                   },
                 },
                 {
@@ -917,42 +949,66 @@ export default defineConfig({
                   label: '0. Prerequisites',
                   link: '/real-world-development/vscode/0-prerequisites/',
                   translations: {
+                    'es-ES': '0. Requisitos previos',
+                    'ja-JP': '0. 前提条件',
                     'ko-KR': '0. 사전 준비',
+                    'pt-BR': '0. Pré-requisitos',
+                    'zh-CN': '0. 先决条件',
                   },
                 },
                 {
                   label: '1. Custom instructions',
                   link: '/real-world-development/vscode/1-custom-instructions/',
                   translations: {
+                    'es-ES': '1. Instrucciones personalizadas',
+                    'ja-JP': '1. カスタム指示',
                     'ko-KR': '1. 사용자 지정 지침',
+                    'pt-BR': '1. Instruções personalizadas',
+                    'zh-CN': '1. 自定义说明',
                   },
                 },
                 {
                   label: '2. Agent mode',
                   link: '/real-world-development/vscode/2-agent-mode/',
                   translations: {
+                    'es-ES': '2. Modo de agente',
+                    'ja-JP': '2. エージェント モード',
                     'ko-KR': '2. 에이전트 모드',
+                    'pt-BR': '2. Modo de agente',
+                    'zh-CN': '2. 智能体模式',
                   },
                 },
                 {
                   label: '3. Testing with Playwright MCP',
                   link: '/real-world-development/vscode/3-mcp/',
                   translations: {
+                    'es-ES': '3. Prueba con Playwright MCP',
+                    'ja-JP': '3. Playwright MCP でテストする',
                     'ko-KR': '3. Playwright MCP로 기능 테스트하기',
+                    'pt-BR': '3. Teste com o Playwright MCP',
+                    'zh-CN': '3. 使用 Playwright MCP 进行测试',
                   },
                 },
                 {
                   label: '4. Custom agents',
                   link: '/real-world-development/vscode/4-custom-agents/',
                   translations: {
+                    'es-ES': '4. Agentes personalizados',
+                    'ja-JP': '4. カスタム エージェント',
                     'ko-KR': '4. 사용자 지정 에이전트',
+                    'pt-BR': '4. Agentes personalizados',
+                    'zh-CN': '4. 自定义智能体',
                   },
                 },
                 {
                   label: '5. Managing agents',
                   link: '/real-world-development/vscode/5-managing-agents/',
                   translations: {
+                    'es-ES': '5. Supervisa y administra agentes',
+                    'ja-JP': '5. エージェントを監視して管理する',
                     'ko-KR': '5. 에이전트 모니터링 및 관리',
+                    'pt-BR': '5. Monitore e gerencie agentes',
+                    'zh-CN': '5. 监视和管理智能体',
                   },
                 },
                 {
